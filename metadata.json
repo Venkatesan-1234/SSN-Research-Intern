@@ -1,0 +1,6 @@
+{
+  "name": "Medical Assistance",
+  "description": "An AI-powered application to analyze handwritten medical prescriptions using OCR, NER, and a specialized medical chatbot.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
